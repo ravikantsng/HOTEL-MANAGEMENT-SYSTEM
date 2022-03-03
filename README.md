@@ -1,7 +1,2 @@
-Hi there , I am Ravikant Singh Nice to see you !!
-👯 I’m looking to collaborate on Web Devlopment.
-🤔 I’m looking for help with Game Devlopment.
-💬 Ask me about C++,SQL,Web Development
-📫 How to reach me:https://www.linkedin.com/in/ravikant-singh-6140761aa/
-😄 Pronouns: He/His
-⚡ Fun fact: Marvel's Fan
+#HOTEL-MANAGEMENT-SYSTEM:-
+This is a Hotel Management System project, in which we will have the information of the items or rooms that we have, what food items are ordered by the costumers, and how many rooms are allotted to them. Also, this project tell us about the sales and the remaining food stock we have in the hotel, and the total collection for the day.
